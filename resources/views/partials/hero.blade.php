@@ -1,4 +1,5 @@
 
+
 <div class="hero min-h-screen bg-blue-900">
   <div class="hero-content flex-col lg:flex-row-reverse">
     <img id="image-hero" src="https://placeimg.com/260/400/arch" class="max-w-sm  rounded-lg shadow-2xl" />

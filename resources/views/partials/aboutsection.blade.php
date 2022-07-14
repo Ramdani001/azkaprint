@@ -1,6 +1,6 @@
 <div id="about" class="grid grid-cols-1 md:grid-cols-2 justify-items-center min-h-screen justify-center p-16 pt-24 px-3">
   
-  <h1 class="md:col-span-2 text-center text-5xl font-bold">Tentang Kami</h1>
+  <h1 class="md:col-span-2 text-center text-4xl lg:text-5xl font-bold">Tentang Kami</h1>
 
   <div id="text-about" class="">
 
@@ -47,7 +47,7 @@
   </div>
 
   <div id="image-about" class="">
-    <h2>Images</h2>
+    <img id="image-hero" src="https://placeimg.com/260/400/arch" class="max-w-sm rounded-lg shadow-2xl" />
   </div>
 
 </div>
